@@ -1,2 +1,2 @@
 # html-css
-Learning HTML and CSS with Jon Duckett's book
+I am using this repository to learn more HTML and CSS using Jon Duckett's book while also practicing Git and Github.
